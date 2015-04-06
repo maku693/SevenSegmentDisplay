@@ -1,0 +1,2 @@
+SevenSegmentDisplay	KEYWORD1
+showChar	KEYWORD2
